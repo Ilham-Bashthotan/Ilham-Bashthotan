@@ -54,14 +54,13 @@ Informatics undergraduate at **Telkom University** focusing on AI agents & workf
 
 ---
 
-### Experience & Leadership
+### Experience
 
 - **AI Solution Engineer Intern** — Rafiqspace.ai *(Jun 2026 – Sep 2026)*  
   Engineered automated QA agent workflows for MeetPal and developed core capabilities for Chekku, an integrated multi-agent orchestration platform using TypeScript and Mastra.
 - **Practicum Assistant (Object-Oriented Programming)** — Informatics Lab, Telkom University *(2026)*  
   Guided weekly lab sessions in Java, prepared coding exercises, and evaluated student submissions.
 - **Mobile Programming Division** — Motion Lab *(2025 – 2026)*  
-  Developed Android applications with Kotlin, Jetpack Compose, and MVVM clean architecture.
-- **Head of Media Division (FKSB)** — Badan Mentoring Agama Islam Tel-U *(2025)*  
-  Directed visual publication strategy and oversaw media production across faculty mentoring programs.
-- **Bronze Medal** — National Business Plan Competition (Health), Cipta Nusantara Fest 2025 (*NutriScan*)
+  Developed Android applications with Kotlin, Jetpack Compose, and MVVM architecture.
+- **Backend Division** — Enterprise Intelligence System Development Laboratory (EISD) *(2025)*  
+  Designed RESTful APIs and managed relational & non-relational databases for system scalability.
